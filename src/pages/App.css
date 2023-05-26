@@ -32,14 +32,6 @@ nav {
   list-style: none;
 }
 
-.photo {
-  background: url(Rectangle1.png) no-repeat;
-  width: 100%;
-  height: 100vh;
-  background-size: cover;
-  color: white;
-}
-
 .photo h1 {
   font-size: 5rem;
   font-weight: 500;
